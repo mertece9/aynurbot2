@@ -318,7 +318,7 @@ stag = (
 
 "Küçük işlere gereğinden çok önem verenler, elinden büyük iş gelmeyenlerdir."
 
-"Mutluluk elin erişebileceği çiçeklerden bir demet yapma sanatıdır."
+"Mutluluk elin erişebileceği,çiçeklerden bir demet yapma sanatıdır"
 
 "Mutluluk her şeyden önce vücut sağlığındadır."
 
