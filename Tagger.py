@@ -282,6 +282,130 @@ async def cancel(event):
   global anlik_calisan
   anlik_calisan.remove(event.chat_id)
 
+
+stag = (
+"Kar taneleri ne güzel anlatıyor, birbirlerine zarar vermeden de yol almanın mümkün olduğunu"
+
+"Mükеmmеl kişiyi aramaktan vazgеç. Tеk ihtiyacın olan sana sahip olduğu için şanslı olduğunu düşünеn biridir"
+
+"Doğuştan sahip olduklarınızla yaşamayı öğrenmek bir süreç, bir katılım, yani yaşamınızın yoğrulmasıdır"
+
+"Aşktan korkmak, yaşamdan korkmak demektir ve yaşamdan korkanlar şimdiden üç kez ölmüşlerdir"
+
+"Bazı insanlar yağmuru hissеdеr, bazıları isе sadеcе ıslanır"
+
+"Hayattaki en büyük zafer hiçbir zaman düşmemekte değil, her düştüğünde ayağa kalkmakta yatar"
+
+“Mutlu olmayı yarına bırakmak, karşıya geçmek için nehrin durmasını beklemeye benzer ve bilirsin, o nehir asla durmaz.”
+
+"İnsanların, senin hakkında ne düşündüklerini önemsemeyerek, ömrünü uzatabilirsin mesela"
+
+"Unutma; Hеr gеlеn sеvmеz.. Vе hiçbir sеvеn gitmеz"
+
+"Hiç bir canın acısı, sеnin acından az dеğildir"
+
+"Üstada sorarlar sеvgi mi nеfrеt mi diyе, “nеfrеt” diyе cеvap vеrir vе еklеr; çünkü onun sahtеsi olmaz"
+
+"Yanlış bildiğin yolda; hеrkеslе yürüyеcеğinе, doğru bildiğin yolda; tеk başına yürü…"
+
+"Büyük sıçrayışı gerçekleştirmek isteyen, birkaç adım geriye gitmek zorundadır. Bugün yarına dünle beslenerek yol alır. "
+
+"Herşeyi denerim; ama yapabildiklerimi yaparım."
+
+"Aşk bir kadının yaşamının tüm öyküsü, erkeğin ise yalnızca bir serüvenidir."
+
+"Niçin hep birlikte barış ve uyum içinde yaşamayalım? Hepimiz aynı yıldızlara bakıyoruz, aynı gezegenin üzerindeki yol arkadaşlarıyız ve aynı gökyüzünün altında yaşıyoruz."
+
+"Küçük işlere gereğinden çok önem verenler, elinden büyük iş gelmeyenlerdir."
+
+"Mutluluk elin erişebileceği çiçeklerden bir demet yapma sanatıdır."
+
+"Mutluluk her şeyden önce vücut sağlığındadır."
+
+"Ne kadar hazin bir çağda yaşıyoruz, bir önyargıyı ortadan kaldırmak atomu parçalamaktan daha güç."
+
+"Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir."
+
+"Ne kadar yükselirsen, uçmayı bilmeyenlere o kadar küçük görünürsün."
+
+"O da gazi olmak istedi, fakat ona anlatmak gerekti ki, şehid olmayı göze alamayan gazi olamazdı."
+
+)
+
+
+@client.on(events.NewMessage(pattern="^/stag ?(.*)"))
+
+async def mentionall(event):
+
+  global anlik_calisan
+  if event.is_private:
+    return await event.respond("**Bu komutu gruplar ve kanallar için geçerli❗**")
+  
+  admins = []
+  async for admin in client.iter_participants(event.chat_id, filter=ChannelParticipantsAdmins):
+    admins.append(admin.id)
+  if not event.sender_id in admins:
+    return await event.respond("**Bu komutu sadace yoneticiler kullana bilir〽️**")
+  
+  if event.pattern_match.group(1):
+    mode = "text_on_cmd"
+    msg = event.pattern_match.group(1)
+  elif event.reply_to_msg_id:
+    mode = "text_on_reply"
+    msg = event.reply_to_msg_id
+    if msg == None:
+        return await event.respond("**Geçmiş mesajlar için etiket ede bilmiom**")
+  elif event.pattern_match.group(1) and event.reply_to_msg_id:
+    return await event.respond("Etiket Yapmak için sebeb yok❗️")
+  else:
+    return await event.respond("**Etikete Başlamak için sebeb yazın...!**")
+  
+  if mode == "text_on_cmd":
+    anlik_calisan.append(event.chat_id)
+    usrnum = 0
+    usrtxt = ""
+    async for usr in client.iter_participants(event.chat_id):
+      usrnum += 1
+      usrtxt += f"[{random.choice(stag)}](tg://user?id={usr.id}) "
+      if event.chat_id not in anlik_calisan:
+        await event.respond("** Etiket işlemi başarıyla durduruldu❌**")
+        return
+      if usrnum == 5:
+        await client.send_message(event.chat_id, f"{usrtxt}\n\n{msg}")
+        await asyncio.sleep(2)
+        usrnum = 0
+        usrtxt = ""
+        
+  
+  if mode == "text_on_reply":
+    anlik_calisan.append(event.chat_id)
+ 
+    usrnum = 0
+    usrtxt = ""
+    async for usr in client.iter_participants(event.chat_id):
+      usrnum += 1
+      usrtxt += f"[{random.choice(stag)}](tg://user?id={usr.id}) "
+      if event.chat_id not in anlik_calisan:
+        await event.respond("Işlem Başarıyla Durduruldu\n\n**Buda sizin reklamınız ola bilir @ben_aynurbot**❌")
+        return
+      if usrnum == 5:
+        await client.send_message(event.chat_id, usrtxt, reply_to=msg)
+        await asyncio.sleep(2)
+        usrnum = 0
+        usrtxt = ""
+
+
+@client.on(events.NewMessage(pattern='^(?i)/cancel'))
+async def cancel(event):
+  global anlik_calisan
+  anlik_calisan.remove(event.chat_id)
+
+
+
+
+
+
+
 		
 print(">> Bot çalıyor merak etme 🚀 @lucimarka bilgi alabilirsin <<")
 client.run_until_disconnected()
