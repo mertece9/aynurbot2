@@ -296,7 +296,7 @@ stag = (
 
 "Hayattaki en büyük zafer hiçbir zaman düşmemekte değil, her düştüğünde ayağa kalkmakta yatar"
 
-“Mutlu olmayı yarına bırakmak, karşıya geçmek için nehrin durmasını beklemeye benzer ve bilirsin, o nehir asla durmaz.”
+"Mutlu olmayı yarına bırakmak karşıya  geçmek için nehrin durmasını beklemeye benzer ve bilirsin, o nehir asla durmaz"
 
 "İnsanların, senin hakkında ne düşündüklerini önemsemeyerek, ömrünü uzatabilirsin mesela"
 
