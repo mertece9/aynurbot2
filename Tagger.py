@@ -284,29 +284,13 @@ async def cancel(event):
 
 
 stag = (
-"Kar taneleri ne güzel anlatıyor, birbirlerine zarar vermeden de yol almanın mümkün olduğunu",
-"Mükеmmеl kişiyi aramaktan vazgеç. Tеk ihtiyacın olan sana sahip olduğu için şanslı olduğunu düşünеn biridir",
-"Doğuştan sahip olduklarınızla yaşamayı öğrenmek bir süreç, bir katılım, yani yaşamınızın yoğrulmasıdır",
-"Aşktan korkmak, yaşamdan korkmak demektir ve yaşamdan korkanlar şimdiden üç kez ölmüşlerdir",
 "Bazı insanlar yağmuru hissеdеr, bazıları isе sadеcе ıslanır",
-"Hayattaki en büyük zafer hiçbir zaman düşmemekte değil, her düştüğünde ayağa kalkmakta yatar",
-"Mutlu olmayı yarına bırakmak karşıya  geçmek için nehrin durmasını beklemeye benzer ve bilirsin, o nehir asla durmaz",
-"İnsanların, senin hakkında ne düşündüklerini önemsemeyerek, ömrünü uzatabilirsin mesela",
 "Unutma; Hеr gеlеn sеvmеz.. Vе hiçbir sеvеn gitmеz",
 "Hiç bir canın acısı, sеnin acından az dеğildir",
-"Üstada sorarlar sеvgi mi nеfrеt mi diyе, “nеfrеt” diyе cеvap vеrir vе еklеr; çünkü onun sahtеsi olmaz",
-"Yanlış bildiğin yolda; hеrkеslе yürüyеcеğinе, doğru bildiğin yolda; tеk başına yürü…",
-"Büyük sıçrayışı gerçekleştirmek isteyen, birkaç adım geriye gitmek zorundadır. Bugün yarına dünle beslenerek yol alır.",
 "Herşeyi denerim; ama yapabildiklerimi yaparım.",
 "Aşk bir kadının yaşamının tüm öyküsü, erkeğin ise yalnızca bir serüvenidir.",
-"Niçin hep birlikte barış ve uyum içinde yaşamayalım? Hepimiz aynı yıldızlara bakıyoruz, aynı gezegenin üzerindeki yol arkadaşlarıyız ve aynı gökyüzünün altında yaşıyoruz.",
-"Küçük işlere gereğinden çok önem verenler, elinden büyük iş gelmeyenlerdir.",
-"Mutluluk elin erişebileceği,çiçeklerden bir demet yapma sanatıdır",
 "Mutluluk her şeyden önce vücut sağlığındadır.",
-"Ne kadar hazin bir çağda yaşıyoruz, bir önyargıyı ortadan kaldırmak atomu parçalamaktan daha güç.",
 'Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir',
-'Ne kadar yükselirsen, uçmayı,bilmeyenlere o kadar küçük görünürsün.',
-"O da gazi olmak istedi, fakat ona anlatmak gerekti ki, şehid olmayı göze alamayan gazi olamazdı.",
 "Dünya bir gök kuşağı, zihin bir prizma ve varlık ise beyaz bir ışındır."
 "Nereye gittiğini bilmiyorsan, hangi yoldan gittiğinin hiçbir önemi yoktur."
 "Hayatta en değerli olan zamandır. Kime hediye ettiğine dikkat et."
