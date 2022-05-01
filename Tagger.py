@@ -412,7 +412,6 @@ async def cancel(event):
 
 
 
-
 renk = "🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ " .split(" ") 
 
 
@@ -483,18 +482,6 @@ async def mentionall(event):
 async def cancel(event):
   global anlik_calisan
   anlik_calisan.remove(event.chat_id)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 		
