@@ -417,8 +417,7 @@ rtag = "🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪"
 
 @client.on(events.NewMessage(pattern="^/rtag ?(.*)"))
 
-async def mentionall(event):
-
+async def rtag(event):
   global anlik_calisan
   if event.is_private:
     return await event.respond("**Bu komutu gruplar ve kanallar için geçerli❗**")
