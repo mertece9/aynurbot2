@@ -477,12 +477,6 @@ async def cancel(event):
   global anlik_calisan
   anlik_calisan.remove(event.chat_id)
 
-
-
-
-
-
-
 ### istatistik 
 
 @client.on(events.NewMessage())
@@ -494,13 +488,13 @@ async def mentionalladmin(event):
     else:
       grup_sayi.append(event.chat_id)
 
-@client.on(events.NewMessage(pattern='^/botstatik ?(.*)'))
+@client.on(events.NewMessage(pattern='^/stats ?(.*)'))
 async def son_durum(event):
     global anlik_calisan,grup_sayi,ozel_list
     sender = await event.get_sender()
     if sender.id not in ozel_list:
       return
-    await event.respond(f"**Gece kuşu Tagger İstatistikleri 🤖**\n\nToplam Grup: `{len(grup_sayi)}`\nAnlık Çalışan Grup: `{len(anlik_calisan)}`")
+    await event.respond(f"** ben_aynurbot Tagger İstatistikleri 🤖**\n\nToplam Grup: `{len(grup_sayi)}`\nAnlık Çalışan Grup: `{len(anlik_calisan)}`")
  
 
 ### brokcast modülü
