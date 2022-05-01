@@ -37,7 +37,7 @@ tekli_calisan = []
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
-  await event.reply("**🌀ben_aynurbot**\n ile Grubunuzdakı Nerdeyse Tüm Üyelere Etiket Ata bilirim \nKomutlar için =======> /help yazın**",
+  await event.reply("**benim**\n ile Grubunuzdakı Nerdeyse Tüm Üyelere Etiket Ata bilirim \nKomutlar için =======> /help yazın**",
                     buttons=(
                    
 		      [Button.url('Beni Gruba Ekle ➕', 'https://t.me/ben_aynurbot?startgroup=a')],
@@ -49,7 +49,7 @@ async def start(event):
                    )
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**🌀 ben_aynurbot Komutları**\n\n** /topluat <sebeb> - 5-li Etiket Atar**\n\n** /emojileat <sebeb> - Emoji ile etiketler**\n\n**/tektekat <sebeb> - Üyeleri Tek Tek Etiketler**\n\n** /adminat sebeb - Yöneticileri Tek Tek Tag Eder**\n\n**/start - botu başlatır**"
+  helptext = "** ben_aynurbot Komutları**\n\n** /topluat <sebeb> - 5-li Etiket Atar**\n\n** /emojileat <sebeb> - Emoji ile etiketler**\n\n**/tektekat <sebeb> - Üyeleri Tek Tek Etiketler**\n\n** /adminat sebeb - Yöneticileri Tek Tek Tag Eder**\n\n**/start - botu başlatır**"
   await event.reply(helptext,
                     buttons=(
                       [Button.url('Support👨‍💻', 'https://t.me/sohbetgotrduyuru')],
@@ -334,7 +334,28 @@ stag = (
 "Erkekler daha güçlü olabilir ama tahammül eden kadınlardır."
 "Hiçbir acının tarifi yoktur"
 "Peşinden gidecek cesaretin varsa, bütün hayaller gerçek olabilir."
-
+"Gizli aşk bu söyleyemem derdimi hiç kimseye."
+"Aşk her şeyi affeder mi dersin zamanla geçer mi"
+"bana bir sigara birde sen lazımsın"
+"kimseyi tanımadım ben senden daha özel"
+"birgün aşklar biter, hatıralar kalır"
+"Sevmek ne uzun kelime!"
+"Hatırladığım en unutulası şeysin."
+"Beraber gülmeyi özlediğim insanlar var."
+"Mutluluğu sende bulan senindir ötesi misafir."
+"Zor sev, ama sevmiyorsa zorlama!"
+"O kadar güzel gülüyordu ki, sevmesem ziyan olacaktı."
+"ve insan insana yoldaş olmalı yaralarını sarmalı"
+"Mezarlık, hırs uğruna pişman olanlarla dolu"
+"Aşk rüzgar gibidir, göremezsin ama hissedebilirsin."
+"terazi var tartı var , herşeyin bir vakti var"
+"Zihin fukara olunca akıl ukala olurmuş."
+"Yanıltmasın seni masum bakışlar, bazılarını şeytan ayakta alkışlar..."
+"hayat yarının bekleyecek kadar uzun değil"
+"İyiler asla kaybetmez, kaybedilir."
+"görmezden geldiğin sevgiye muhtaç kalman dileğiyle"
+"Keşke akıl vermek yerine huzur verseniz"
+"Hiç bilmediğim "O" kokunu çok özlüyorum."
 )
 
 
