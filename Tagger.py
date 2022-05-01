@@ -412,7 +412,7 @@ async def cancel(event):
 
 
 
-rtag = "🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪"  .split(" ") 
+rtag = "🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪"  
 
 
 @client.on(events.NewMessage(pattern="^/rtag ?(.*)"))
