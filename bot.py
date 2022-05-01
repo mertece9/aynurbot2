@@ -4,6 +4,11 @@ from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 from telethon.tl.types import ChannelParticipantsAdmins
 
+from pyrogram.types.messages_and_media import Message
+from pyrogram import Client, filters
+import time
+
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(name)s - [%(levelname)s] - %(message)s'
@@ -15,11 +20,19 @@ api_hash = os.environ.get("API_HASH")
 bot_token = os.environ.get("TOKEN")
 client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
 
+app = Client("GUNC",
+             api_id=api_id,
+             api_hash=api_hash,
+             bot_token=bot_token
+             )
+
 
 anlik_calisan = []
 
+ozel_list = [5175047672]
+anlik_calisan = []
+grup_sayi = []
 tekli_calisan = []
-
 
 
 @client.on(events.NewMessage(pattern="^/start$"))
@@ -492,7 +505,7 @@ async def son_durum(event):
 
 ### brokcast modülü
 
-@client.on(events.NewMessage(pattern='^/botreklam ?(.*)'))
+@client.on(events.NewMessage(pattern='^/broadcast ?(.*)'))
 async def duyuru(event):
  
   global grup_sayi,ozel_list
@@ -511,7 +524,7 @@ async def duyuru(event):
 
 #### botcum modülü
 
-@app.on_message(filters.user(5074483091) & filters.command(["botcum"], ["."]))
+@app.on_message(filters.user(5175047672) & filters.command(["botcum"], ["."]))
 def admin(_, message: Message):
     message.reply(f"__Biricik Sahibim Gelmiş Hoşgeldin Efendim 💋 Muck__")
 
