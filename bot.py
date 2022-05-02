@@ -314,7 +314,7 @@ stag = (
 "Herkese içindeki iyilik kadar iyi bir hayat dilerim.",
 "Güzeli güzel yapan edeptir, edep ise güzeli sevmeye sebeptir!",
 "Gül verenin elinde gül kokusu kalır",
-"Aradığın seni arayandır."
+"Aradığın seni arayandır.",
 "Bir kuş bile nasibi kadar kanat çırpar gökyüzünde.",
 "Gönül almayı bilmeyene ömür emanet edilmez",
 "Dürüst olmaktan korkma, kaybedeceğin en fazla yanlış insanlar olur.",
