@@ -303,58 +303,58 @@ stag = (
 "Herşeyi denerim; ama yapabildiklerimi yaparım.",
 "Aşk bir kadının yaşamının tüm öyküsü, erkeğin ise yalnızca bir serüvenidir.",
 "Mutluluk her şeyden önce vücut sağlığındadır.",
-'Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir',
-"Dünya bir gök kuşağı, zihin bir prizma ve varlık ise beyaz bir ışındır."
-"Nereye gittiğini bilmiyorsan, hangi yoldan gittiğinin hiçbir önemi yoktur."
-"Hayatta en değerli olan zamandır. Kime hediye ettiğine dikkat et."
-"Bir evin bütün camlarını kırıp sonra da kapısını çalamazsın."
-"Mutluluk yaşadığın hayat tarzında değil, hayata bakış tarzındadır."
-"Unutma; Hеr gеlеn sеvmеz.. Vе hiçbir sеvеn gitmеz."
-"Yarım nefeslik bu hayatta. Sevgiden başka hiçbir şey planlama..."
-"Herkese içindeki iyilik kadar iyi bir hayat dilerim."
-"Güzeli güzel yapan edeptir, edep ise güzeli sevmeye sebeptir!"
+'Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir",
+"Dünya bir gök kuşağı, zihin bir prizma ve varlık ise beyaz bir ışındır.",
+"Nereye gittiğini bilmiyorsan, hangi yoldan gittiğinin hiçbir önemi yoktur.",
+"Hayatta en değerli olan zamandır. Kime hediye ettiğine dikkat et.",
+"Bir evin bütün camlarını kırıp sonra da kapısını çalamazsın.",
+"Mutluluk yaşadığın hayat tarzında değil, hayata bakış tarzındadır.",
+"Unutma; Hеr gеlеn sеvmеz.. Vе hiçbir sеvеn gitmеz.",
+"Yarım nefeslik bu hayatta. Sevgiden başka hiçbir şey planlama...",
+"Herkese içindeki iyilik kadar iyi bir hayat dilerim.",
+"Güzeli güzel yapan edeptir, edep ise güzeli sevmeye sebeptir!",
 "Gül verenin elinde gül kokusu kalır"
 "Aradığın seni arayandır."
-"Bir kuş bile nasibi kadar kanat çırpar gökyüzünde."
+"Bir kuş bile nasibi kadar kanat çırpar gökyüzünde.",
 "Gönül almayı bilmeyene ömür emanet edilmez"
-"Dürüst olmaktan korkma, kaybedeceğin en fazla yanlış insanlar olur."
-"İnsan odun değildir ki, kırıldığı zaman ses çıkarsın."
+"Dürüst olmaktan korkma, kaybedeceğin en fazla yanlış insanlar olur.",
+"İnsan odun değildir ki, kırıldığı zaman ses çıkarsın.",
 "Öğrenmek, yaşamın tek kanıtıdır."
 "Dünya nüfusu arttıkça, insan sayısı azalıyor."
-"Layık olduğunu düşünmediğiniz insanlara asla doğruları söylemeyin."
-"Çok şükür ki gökyüzü henüz hiçbir cüzdana sığmıyor."
+"Layık olduğunu düşünmediğiniz insanlara asla doğruları söylemeyin.",
+"Çok şükür ki gökyüzü henüz hiçbir cüzdana sığmıyor.",
 "Kendin ol. Zaten herkes alındı."
-"Canımı yaka yaka, boğazımdaki düğümleri yutkundum."
-"O kadar güzel gülüyordu ki, sevmesem ziyan olacaktı."
-"Sevdiği ben değilim. Size bunun acısını anlatamam."
-"Sevdiği ben değilim. Size bunun acısını anlatamam."
-"Alışıyorsunuz zamanla her şeye ama asla bitmiyor."
-"Eğer doğruyu söylersen hiçbir şeyi hatırlamak zorunda değilsin."
-"Gerçeği ilk sen söyle… Yoksa senin için birisi elbet doğruyu söyleyecektir."
-"Erkekler daha güçlü olabilir ama tahammül eden kadınlardır."
-"Hiçbir acının tarifi yoktur"
-"Peşinden gidecek cesaretin varsa, bütün hayaller gerçek olabilir."
-"Gizli aşk bu söyleyemem derdimi hiç kimseye."
-"Aşk her şeyi affeder mi dersin zamanla geçer mi"
-"bana bir sigara birde sen lazımsın"
-"kimseyi tanımadım ben senden daha özel"
-"birgün aşklar biter, hatıralar kalır"
-"Sevmek ne uzun kelime!"
-"Hatırladığım en unutulası şeysin."
-"Beraber gülmeyi özlediğim insanlar var."
-"Mutluluğu sende bulan senindir ötesi misafir."
-"Zor sev, ama sevmiyorsa zorlama!"
-"O kadar güzel gülüyordu ki, sevmesem ziyan olacaktı."
-"ve insan insana yoldaş olmalı yaralarını sarmalı"
-"Mezarlık, hırs uğruna pişman olanlarla dolu"
-"Aşk rüzgar gibidir, göremezsin ama hissedebilirsin."
-"terazi var tartı var , herşeyin bir vakti var"
-"Zihin fukara olunca akıl ukala olurmuş."
-"Yanıltmasın seni masum bakışlar, bazılarını şeytan ayakta alkışlar..."
-"hayat yarının bekleyecek kadar uzun değil"
-"İyiler asla kaybetmez, kaybedilir."
-"görmezden geldiğin sevgiye muhtaç kalman dileğiyle"
-"Keşke akıl vermek yerine huzur verseniz"
+"Canımı yaka yaka, boğazımdaki düğümleri yutkundum.",
+"O kadar güzel gülüyordu ki, sevmesem ziyan olacaktı.",
+"Sevdiği ben değilim. Size bunun acısını anlatamam.",
+"Sevdiği ben değilim. Size bunun acısını anlatamam.",
+"Alışıyorsunuz zamanla her şeye ama asla bitmiyor.",
+"Eğer doğruyu söylersen hiçbir şeyi hatırlamak zorunda değilsin.",
+"Gerçeği ilk sen söyle… Yoksa senin için birisi elbet doğruyu söyleyecektir.",
+"Erkekler daha güçlü olabilir ama tahammül eden kadınlardır.",
+"Hiçbir acının tarifi yoktur",
+"Peşinden gidecek cesaretin varsa, bütün hayaller gerçek olabilir.",
+"Gizli aşk bu söyleyemem derdimi hiç kimseye.",
+"Aşk her şeyi affeder mi dersin zamanla geçer mi",
+"bana bir sigara birde sen lazımsın",
+"kimseyi tanımadım ben senden daha özel",
+"birgün aşklar biter, hatıralar kalır",
+"Sevmek ne uzun kelime!",
+"Hatırladığım en unutulası şeysin.",
+"Beraber gülmeyi özlediğim insanlar var.",
+"Mutluluğu sende bulan senindir ötesi misafir.",
+"Zor sev, ama sevmiyorsa zorlama!",
+"O kadar güzel gülüyordu ki, sevmesem ziyan olacaktı.",
+"ve insan insana yoldaş olmalı yaralarını sarmalı",
+"Mezarlık, hırs uğruna pişman olanlarla dolu",
+"Aşk rüzgar gibidir, göremezsin ama hissedebilirsin.",
+"terazi var tartı var , herşeyin bir vakti var",
+"Zihin fukara olunca akıl ukala olurmuş.",
+"Yanıltmasın seni masum bakışlar, bazılarını şeytan ayakta alkışlar...",
+"hayat yarının bekleyecek kadar uzun değil",
+"İyiler asla kaybetmez, kaybedilir.",
+"görmezden geldiğin sevgiye muhtaç kalman dileğiyle",
+"Keşke akıl vermek yerine huzur verseniz",
 "Hiç bilmediğim "O" kokunu çok özlüyorum."
 )
 
@@ -427,7 +427,7 @@ async def cancel(event):
   anlik_calisan.remove(event.chat_id)
 
 
-btag = "🇦🇨 🇦🇩 🇦🇪 🇦🇫 🇦🇬 🇦🇮 🇦🇱 🇦🇴 🇦🇶 🇦🇷 🇦🇸 🇦🇹🇦🇺 🇦🇼 🇦🇽 🇦🇿 🇧🇦 🇧🇧 🇧🇩 🇧🇪 🇧🇫 🇧🇬 🇧🇭 🇧🇮🇧🇯 🇧🇱 🇧🇲 🇧🇳 🇧🇴 🇧🇶 🇧🇷 🇧🇸 🇧🇹 🇧🇻 🇧🇼 🇧🇾🇧🇿 🇨🇦 🇨🇨 🇨🇩 🇨🇫 🇨🇬 🇨🇭 🇨🇮 🇨🇰 🇨🇱 🇨🇲 🇨🇳🇨🇵 🇨🇷 🇨🇺 🇨🇻 🇨🇼 🇨🇽 🇨🇾 🇨🇿 🇩🇪 🇩🇬 🇩🇯 🇩🇰🇩🇲 🇩🇴 🇩🇿 🇪🇦 🇪🇨 🇪🇪 🇪🇬 🇪🇭 🇪🇷 🇪🇸 🇪🇹 🇪🇺🇫🇮 🇫🇯 🇫🇰 🇫🇲 🇫🇴 🇫🇷 🇬🇦 🇬🇧 🇬🇩 🇬🇪 🇬🇫 🇬🇬🇬🇭 🇬🇮 🇬🇱 🇬🇲 🇬🇳 🇬🇵 🇬🇶 🇬🇷 🇬🇸 🇬🇹 🇬🇺 🇬🇼🇬🇾 🇭🇰 🇭🇲 🇭🇳 🇭🇷 🇭🇹 🇭🇺 🇮🇨 🇮🇩 🇮🇪 🇮🇱 🇮🇲🇮🇳 🇮🇴 🇮🇶 🇮🇷 🇮🇸 🇮🇹 🇯🇪 🇯🇲 🇯🇴 🇯🇵 🇰🇪 🇰🇬🇰🇭 🇰🇮 🇰🇲 🇰🇳 🇰🇵 🇰🇷 🇰🇼 🇰🇾 🇰🇿 🇱🇦 🇱🇧 🇱🇨🇱🇮 🇱🇰 🇱🇷 🇱🇸 🇱🇹 🇱🇺 🇱🇻 🇱🇾 🇲🇦 🇲🇨 🇲🇩 🇲🇪🇲🇫 🇲🇬 🇲🇭 🇲🇰 🇲🇱 🇲🇲 🇲🇳 🇲🇴 🇲🇵 🇲🇶 🇲🇷 🇲🇸🇲🇹 🇲🇺 🇲🇻 🇲🇼 🇲🇽 🇲🇾 🇲🇿 🇳🇦 🇳🇨 🇳🇪 🇳🇫 🇳🇬🇳🇮 🇳🇱 🇳🇴 🇳🇵 🇳🇷 🇳🇺 🇳🇿 🇴🇲 🇵🇦 🇵🇪 🇵🇫 🇵🇬🇵🇭 🇵🇰 🇵🇱 🇵🇲 🇵🇳 🇵🇷 🇵🇸 🇵🇹 🇵🇼 🇵🇾 🇶🇦 🇷🇪🇷🇴 🇷🇸 🇷🇺 🇷🇼 🇸🇦 🇸🇧 🇸🇨 🇸🇩 🇸🇪 🇸🇬 🇸🇭 🇸🇮🇸🇯 🇸🇰 🇸🇱 🇸🇲 🇸🇳 🇸🇴 🇸🇷 🇸🇸 🇸🇹 🇸🇻 🇸🇽 🇸🇾🇸🇿 🇹🇦 🇹🇨 🇹🇩 🇹🇫 🇹🇬 🇹🇭 🇹🇯 🇹🇰 🇹🇱 🇹🇲 🇹🇳🇹🇴 🇹🇷 🇹🇹 🇹🇻 🇹🇼 🇹🇿 🇺🇦 🇺🇬 🇺🇲 🇺🇳 🇺🇸 🇺🇾🇺🇿 🇻🇦 🇻🇨 🇻🇪 🇻🇬 🇻🇮 🇻🇳 🇻🇺 🇼🇫 🇼🇸 🇽🇰 🇾🇪🇾🇹 🇿🇦 🇿🇲 🇿🇼".split(" ")
+btag = "🇦🇨 🇦🇩 🇦🇪 🇦🇫 🇦🇬 🇦🇮 🇦🇱 🇦🇴 🇦🇶 🇦🇷 🇦🇸 🇦🇹 🇦🇺 🇦🇼 🇦🇽 🇦🇿 🇧🇦 🇧🇧 🇧🇩 🇧🇪 🇧🇫 🇧🇬 🇧🇭 🇧🇮 🇧🇯 🇧🇱 🇧🇲 🇧🇳 🇧🇴 🇧🇶 🇧🇷 🇧🇸 🇧🇹 🇧🇻 🇧🇼 🇧🇾 🇧🇿 🇨🇦 🇨🇨 🇨🇩 🇨🇫 🇨🇬 🇨🇭 🇨🇮 🇨🇰 🇨🇱 🇨🇲 🇨🇳 🇨🇵 🇨🇷 🇨🇺 🇨🇻 🇨🇼 🇨🇽 🇨🇾 🇨🇿 🇩🇪 🇩🇬 🇩🇯 🇩🇰 🇩🇲 🇩🇴 🇩🇿 🇪🇦 🇪🇨 🇪🇪 🇪🇬 🇪🇭 🇪🇷 🇪🇸 🇪🇹 🇪🇺 🇫🇮 🇫🇯 🇫🇰 🇫🇲 🇫🇴 🇫🇷 🇬🇦 🇬🇧 🇬🇩 🇬🇪 🇬🇫 🇬🇬 🇬🇭 🇬🇮 🇬🇱 🇬🇲 🇬🇳 🇬🇵 🇬🇶 🇬🇷 🇬🇸 🇬🇹 🇬🇺 🇬🇼 🇬🇾 🇭🇰 🇭🇲 🇭🇳 🇭🇷 🇭🇹 🇭🇺 🇮🇨 🇮🇩 🇮🇪 🇮🇱 🇮🇲 🇮🇳 🇮🇴 🇮🇶 🇮🇷 🇮🇸 🇮🇹 🇯🇪 🇯🇲 🇯🇴 🇯🇵 🇰🇪 🇰🇬 🇰🇭 🇰🇮 🇰🇲 🇰🇳 🇰🇵 🇰🇷 🇰🇼 🇰🇾 🇰🇿 🇱🇦 🇱🇧 🇱🇨 🇱🇮 🇱🇰 🇱🇷 🇱🇸 🇱🇹 🇱🇺 🇱🇻 🇱🇾 🇲🇦 🇲🇨 🇲🇩 🇲🇪 🇲🇫 🇲🇬 🇲🇭 🇲🇰 🇲🇱 🇲🇲 🇲🇳 🇲🇴 🇲🇵 🇲🇶 🇲🇷 🇲🇸 🇲🇹 🇲🇺 🇲🇻 🇲🇼 🇲🇽 🇲🇾 🇲🇿 🇳🇦 🇳🇨 🇳🇪 🇳🇫 🇳🇬 🇳🇮 🇳🇱 🇳🇴 🇳🇵 🇳🇷 🇳🇺 🇳🇿 🇴🇲 🇵🇦 🇵🇪 🇵🇫 🇵🇬 🇵🇭 🇵🇰 🇵🇱 🇵🇲 🇵🇳 🇵🇷 🇵🇸 🇵🇹 🇵🇼 🇵🇾 🇶🇦 🇷🇪 🇷🇴 🇷🇸 🇷🇺 🇷🇼 🇸🇦 🇸🇧 🇸🇨 🇸🇩 🇸🇪 🇸🇬 🇸🇭 🇸🇮 🇸🇯 🇸🇰 🇸🇱 🇸🇲 🇸🇳 🇸🇴 🇸🇷 🇸🇸 🇸🇹 🇸🇻 🇸🇽 🇸🇾 🇸🇿 🇹🇦 🇹🇨 🇹🇩 🇹🇫 🇹🇬 🇹🇭 🇹🇯 🇹🇰 🇹🇱 🇹🇲 🇹🇳 🇹🇴 🇹🇷 🇹🇹 🇹🇻 🇹🇼 🇹🇿 🇺🇦 🇺🇬 🇺🇲 🇺🇳 🇺🇸 🇺🇾 🇺🇿 🇻🇦 🇻🇨 🇻🇪 🇻🇬 🇻🇮 🇻🇳 🇻🇺 🇼🇫 🇼🇸 🇽🇰 🇾🇪 🇾🇹 🇿🇦 🇿🇲 🇿🇼".split(" ")
 
 
 @client.on(events.NewMessage(pattern="^/btag ?(.*)"))
