@@ -303,7 +303,7 @@ stag = (
 "Herşeyi denerim; ama yapabildiklerimi yaparım.",
 "Aşk bir kadının yaşamının tüm öyküsü, erkeğin ise yalnızca bir serüvenidir.",
 "Mutluluk her şeyden önce vücut sağlığındadır.",
-'Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir",
+"Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir",
 "Dünya bir gök kuşağı, zihin bir prizma ve varlık ise beyaz bir ışındır.",
 "Nereye gittiğini bilmiyorsan, hangi yoldan gittiğinin hiçbir önemi yoktur.",
 "Hayatta en değerli olan zamandır. Kime hediye ettiğine dikkat et.",
