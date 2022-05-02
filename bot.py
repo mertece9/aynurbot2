@@ -313,17 +313,17 @@ stag = (
 "Yarım nefeslik bu hayatta. Sevgiden başka hiçbir şey planlama...",
 "Herkese içindeki iyilik kadar iyi bir hayat dilerim.",
 "Güzeli güzel yapan edeptir, edep ise güzeli sevmeye sebeptir!",
-"Gül verenin elinde gül kokusu kalır"
+"Gül verenin elinde gül kokusu kalır",
 "Aradığın seni arayandır."
 "Bir kuş bile nasibi kadar kanat çırpar gökyüzünde.",
-"Gönül almayı bilmeyene ömür emanet edilmez"
+"Gönül almayı bilmeyene ömür emanet edilmez",
 "Dürüst olmaktan korkma, kaybedeceğin en fazla yanlış insanlar olur.",
 "İnsan odun değildir ki, kırıldığı zaman ses çıkarsın.",
-"Öğrenmek, yaşamın tek kanıtıdır."
-"Dünya nüfusu arttıkça, insan sayısı azalıyor."
+"Öğrenmek, yaşamın tek kanıtıdır.",
+"Dünya nüfusu arttıkça, insan sayısı azalıyor.",
 "Layık olduğunu düşünmediğiniz insanlara asla doğruları söylemeyin.",
 "Çok şükür ki gökyüzü henüz hiçbir cüzdana sığmıyor.",
-"Kendin ol. Zaten herkes alındı."
+"Kendin ol. Zaten herkes alındı.",
 "Canımı yaka yaka, boğazımdaki düğümleri yutkundum.",
 "O kadar güzel gülüyordu ki, sevmesem ziyan olacaktı.",
 "Sevdiği ben değilim. Size bunun acısını anlatamam.",
