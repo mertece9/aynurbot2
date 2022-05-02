@@ -355,7 +355,7 @@ stag = (
 "İyiler asla kaybetmez, kaybedilir.",
 "görmezden geldiğin sevgiye muhtaç kalman dileğiyle",
 "Keşke akıl vermek yerine huzur verseniz",
-"Hiç bilmediğim "O" kokunu çok özlüyorum."
+"Hiç bilmediğim o kokunu çok özlüyorum."
 )
 
 
