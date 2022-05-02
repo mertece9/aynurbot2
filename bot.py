@@ -49,7 +49,7 @@ async def start(event):
                    )
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "** ben_aynurbot Komutları**\n\n** /topluat <sebeb> - 5-li Etiket Atar**\n\n** /emojileat <sebeb> - Emoji ile etiketler**\n\n**/tektekat <sebeb> - Üyeleri Tek Tek Etiketler**\n\n** /adminat sebeb - Yöneticileri Tek Tek Tag Eder**\n\n**/start - botu başlatır**"
+  helptext = "** ben_aynurbot Komutları**\n\n** /topluat <sebeb> - 5-li Etiket Atar**\n\n** /emojileat <sebeb> - Emoji ile etiketler**\n\n**/tektekat <sebeb> - Üyeleri Tek Tek Etiketler**\n\n** /adminat sebeb - Yöneticilere Tek Tek etiket atar**\n\n**/stag - <sebeb> güzel sözlerle tag yapar**\n\n**/btag - bayraklarla etiket atar**\n\n**/start - botu başlatır**"
   await event.reply(helptext,
                     buttons=(
                       [Button.url('Support👨‍💻', 'https://t.me/sohbetgotrduyuru')],
