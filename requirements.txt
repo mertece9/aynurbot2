@@ -1,5 +1,5 @@
-Pyrogram
 telethon
 cryptg
 requests
-TgCrypto
+pyrogram==1.3.6
+tgcrypto
